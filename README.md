@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheenu12
 - 👀 I’m interested in watching web series,cricket
-- 🌱 I’m currently learning c++ and dsa
+- 🌱 I’m currently learning html,css,js
 - 💞️ I’m looking to collaborate on learing together
 - 📫 How to reach me ig- chirag_batheja
 
