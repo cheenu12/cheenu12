@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cheenu12
-- 👀 I’m interested in watching web series,cricket
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on learing together
-- 📫 How to reach me ig- chirag_batheja
+- 📫 How to reach me ig- chirag_batheja , email- chiragbatheja7@gmail.com
 
 <!---
 cheenu12/cheenu12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
