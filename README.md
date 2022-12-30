@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheenu12
-- 🌱 I’m currently learning WEB DEVELOPMENT
+- 🌱 I’m currently learning DATA STRUCTURES & ALGORITHMS
 - 💞️ I’m looking to collaborate on learing together
 - 📫 How to reach me ig- chirag_batheja , email- chiragbatheja7@gmail.com
 
