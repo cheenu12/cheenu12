@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning DATA STRUCTURES & ALGORITHMS
 - 💞️ I’m looking to collaborate on learing together
 - 📫 How to reach me ig- chirag_batheja , email- chiragbatheja7@gmail.com
+- ✨ Portfolio: https://chiragbatheja-portfolio.netlify.app/
 ## 🚀 Languages and Tools:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheenu12&show_icons=true&theme=radical)
